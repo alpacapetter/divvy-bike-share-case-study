@@ -1,0 +1,5 @@
+*.csv
+.vscode
+.ipynb_checkpoints
+202004-202103-divvy-tripdata/
+venv/
